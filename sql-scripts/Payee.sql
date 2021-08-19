@@ -6,4 +6,5 @@ begin
 		description nvarchar(50),
 		code nvarchar(50)
 	);
+
 end
